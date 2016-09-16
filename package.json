@@ -1,0 +1,22 @@
+{
+  "name": "chrome_extension_email",
+  "version": "0.1.0",
+  "description": "Chrome extension account email",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjavier3430/chrome_extension_email.git"
+  },
+  "author": "David Hernandez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/davidjavier3430/chrome_extension_email/issues"
+  },
+  "homepage": "https://github.com/davidjavier3430/chrome_extension_email#readme"
+}
